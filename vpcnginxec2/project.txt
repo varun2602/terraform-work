@@ -1,0 +1,5 @@
+-> VPC with a public and private subnet 
+-> EC2 inside a public subnet 
+-> Setting up nginx server 
+-> Create security group rule to enable HTTP access 
+-> Output webserver url on terminal

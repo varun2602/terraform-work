@@ -1,0 +1,6 @@
+1) Accept vpc cidr block to create vpc
+2) Create multiple subnets
+     -> Get CIDR block for the subnets 
+     -> Get AZs 
+     -> User can mark a subnet public (default is private) 
+        -> If public create an IGW and associate the subnet with a Route table

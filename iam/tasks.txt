@@ -1,0 +1,5 @@
+-> Provide user and roles via yaml files 
+-> Read the yaml files and process the data 
+-> Create IAM users 
+-> Generate passwords for the users 
+-> Attach policy or roles to each users

@@ -1,0 +1,3 @@
+Data Source in terraform:
+  -> Allows you to fetch data from external or existing resourcesb in your cloud infra
+  -> Useful for obtaining dynamic data that you need for your configuration.
